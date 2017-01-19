@@ -1,6 +1,6 @@
 ## getCep
 
-Projeto baseado em ![Elton Minetto](https://github.com/eminetto/goCep) para teste da linguagem.
+Projeto baseado no projeto do ![Elton Minetto](https://github.com/eminetto/goCep).
 
 Agradecimento especial ao Elton pelas dicas \o/
 
