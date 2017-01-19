@@ -1,6 +1,7 @@
 ## getCep
 
 Projeto baseado em ![Elton Minetto](https://github.com/eminetto/goCep) para teste da linguagem.
+
 Agradecimento especial ao Elton pelas dicas \o/
 
 ## Compilar
@@ -8,7 +9,9 @@ Agradecimento especial ao Elton pelas dicas \o/
 Além de ter o Go instalado no sistema operacional é necessário executar:
 
 `export GOPATH=/path/getCep`
+
 `go get github.com/gorilla/mux`
+
 `go build`
 
 ## Executar
